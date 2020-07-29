@@ -1,0 +1,6 @@
+node_modules
+data
+.env
+.env2
+json.sqlite
+config.js
