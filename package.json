@@ -35,7 +35,7 @@
     "dotenv": "^8.2.0",
     "ejs": "^2.6.1",
     "enmap": "^5.0.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-session": "^1.16.1",
     "form-data": "^2.4.0",
     "humanize-duration": "^3.23.1",
